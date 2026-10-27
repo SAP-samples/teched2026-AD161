@@ -1,4 +1,7 @@
 version = 1
+SPDX-PackageName = "teched2026-AD161"
+SPDX-PackageSupplier = "ospo@sap.com"
+SPDX-PackageDownloadLocation = "https://github.com/sap-samples/teched2026-AD161"
 SPDX-PackageName = "teched2026-[SESSION ID]"
 SPDX-PackageSupplier = "tarun.kamal.khiani@sap.com"
 SPDX-PackageDownloadLocation = "https://github.com/sap-samples/teched2026-[SESSION ID]"
