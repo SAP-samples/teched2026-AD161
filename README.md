@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2026-AD161)](https://api.reuse.software/info/github.com/SAP-samples/teched2026-AD161)
+
 # AD161 - Build and operate agentic solutions with Joule Studio
 
 ## Description
